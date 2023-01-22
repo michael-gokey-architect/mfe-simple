@@ -11,12 +11,17 @@
     "type": "git",
     "url": "https://github.com/michael-gokey-architect/mfe-simple.git"
   },
-  "keywords": ["microfrontend architecture", "javascript"],
+  "keywords": [
+    "microfrontend architecture",
+    "javascript"
+  ],
   "author": "Michael Gokey",
-  "contributors": [{
-    "name": "Sunny Rajdeep",
-    "email": "sunny_mrajdeep@outlook.com",
-    "url": "https://#"
-  }],
+  "contributors": [
+    {
+      "name": "Sunny Rajdeep",
+      "email": "sunny_mrajdeep@outlook.com",
+      "url": "https://#"
+    }
+  ],
   "license": "MIT"
 }

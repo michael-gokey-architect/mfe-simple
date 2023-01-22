@@ -1,6 +1,6 @@
 import faker from 'faker';
-
 // https://fakerjs.dev/api/
+
 
 let products = '';
 
