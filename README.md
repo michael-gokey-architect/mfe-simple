@@ -1,7 +1,11 @@
 # mfe-simple
 no frameworks, just simple javascript and webpack module federation
 
-Products/projects
+
+
+# Products
+## /projects
+// https://fakerjs.dev/api/
 
 npm install webpack@5.4.0 webpack-cli@4.2.0 webpack-dev-server@3.11.0 faker@5.1.0 html-webpack-plugin@4.5.0
 
@@ -52,3 +56,8 @@ Error: error:0308010C:digital envelope routines::unsupported
 }
 
 Node.js v18.12.1
+
+--------------------------------
+## /container
+npm install webpack@5.68.0 webpack-cli@4.10.0 webpack-dev-server@4.7.4 html-webpack-plugin@5.5.0 nodemon
+
