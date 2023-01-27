@@ -1,15 +1,17 @@
 # mfe-simple
 no frameworks, just simple javascript and webpack module federation
 
-Next Starting point, Step 18
-
 
 ![front-end monolithic SPA architecture ](01-Monolithic-SinglePageApplication.jpg "front-end monolithic SPA architecture")
 
 
 
-# Products
-## /projects
+# Projects
+
+Lets build 3 seperate teams, 3 seperate projects
+![Seperate Teams Building Seperate Parts ](SeperateTeamsBuilding.jpg "Seperate Teams Building Seperate Parts")
+
+## /products
 // https://fakerjs.dev/api/
 
 npm install webpack@5.4.0 webpack-cli@4.2.0 webpack-dev-server@3.11.0 faker@5.1.0 html-webpack-plugin@4.5.0
@@ -62,12 +64,19 @@ Error: error:0308010C:digital envelope routines::unsupported
 
 Node.js v18.12.1
 
+Open and run, check your broswer at 8082, from this sample
+
 --------------------------------
 ## /container
 npm install webpack@5.68.0 webpack-cli@4.10.0 webpack-dev-server@4.7.4 html-webpack-plugin@5.5.0 nodemon
 
+![Index template from Container ](container-index-template.jpg "Index template from Container ")
+
+Open and run, check your broswer at 8080, from this sample
 
 ## /cart
 
+Open and run, check your broswer at 8084, from this sample
+![Webpack-config from Cart ](cart-webpack-configjpg.jpg "Webpack-config from Cart")
 
-![Seperate Teams Building Seperate Parts ](SeperateTeamsBuilding.jpg "Seperate Teams Building Seperate Parts")
+Next Starting point, Step 21
