@@ -10,7 +10,8 @@ module.exports = {
         new ModuleFederationPlugin({
             name: 'container',
             remotes: {
-                products: 'products@http://localhost:8082/remoteEntry.js'
+                products: 'products2@http://localhost:8082/remoteEntry.js',
+                cart: 'cart@http://localhost:8084/remoteEntry.js'
             },
         }),
         new HtmlWebpackPlugin({
@@ -18,3 +19,4 @@ module.exports = {
         })
     ]
 };
+
