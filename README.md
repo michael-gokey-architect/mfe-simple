@@ -40,6 +40,6 @@ Open and run, check your broswer at 8080, from this sample
 ## /cart
 
 Open and run, check your broswer at 8084, from this sample
-![Webpack-config from Cart ](cart-webpack-configjpg.jpg "Webpack-config from Cart")
+![Webpack-config from Cart ](cart-webpack-configjpg.JPG "Webpack-config from Cart")
 
 Next Starting point, Step 21
