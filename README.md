@@ -2,7 +2,7 @@
 no frameworks, just simple javascript and webpack module federation
 
 
-![front-end monolithic SPA architecture ](01-Monolithic-SinglePageApplication.jpg "front-end monolithic SPA architecture")
+![front-end monolithic SPA architecture ](01-Monolithic-SinglePageApplication.JPG "front-end monolithic SPA architecture")
 
 
 
